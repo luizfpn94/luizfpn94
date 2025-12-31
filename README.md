@@ -1,6 +1,6 @@
 ## Olá, Bem vindo(a) 👋
 
-Sou Luiz Felipe, um desenvolvedor web e Mobile **💻 PHP e Dart**.
+Sou Luiz Felipe, um desenvolvedor web e mobile **💻 PHP e Dart**.
 
 No meu perfil você pode acompanhar o que estou desenvolvendo e como estou evoluindo como desenvolvedor.
 
