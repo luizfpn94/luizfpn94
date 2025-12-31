@@ -4,5 +4,5 @@ Sou Luiz Felipe, um desenvolvedor web e mobile **💻 PHP e Dart**.
 
 No meu perfil você pode acompanhar o que estou desenvolvendo e como estou evoluindo como desenvolvedor.
 
-Fique a vontade para colaborar, sugerir ideias e melhorias nos projetos. Estou aberto ao dialogo e Networking. 🔭
+Fique a vontade para colaborar, sugerir ideias e melhorias nos projetos. Estou aberto ao dialogo e networking. 🔭
 
